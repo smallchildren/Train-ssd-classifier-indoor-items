@@ -1,0 +1,26 @@
+<annotation>
+	<folder>JPEGImages</folder>
+	<filename>001439.jpg</filename>
+	<path>/home/smallchild/data/VOCdevkit/qixiadataset/JPEGImages/001439.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1280</width>
+		<height>720</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>desk</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>815</xmin>
+			<ymin>368</ymin>
+			<xmax>952</xmax>
+			<ymax>638</ymax>
+		</bndbox>
+	</object>
+</annotation>
